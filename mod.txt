@@ -1,0 +1,11 @@
+[mod]
+name="Shot Indicator"
+id="shot_indicator"
+version="1.0.0"
+priority=0
+
+[autoload]
+ShotIndicator="res://ShotIndicator/Main.gd"
+
+[hooks]
+res://Scripts/AI.gd = "PlayFire"
