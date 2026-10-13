@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.1
+- Checked against game version 0.2.1.0: works unchanged (the AI firing code it hooks didn't change). Version bump only.
+
 ## 1.0.0
 - First release.
 - PUBG-style red glow at the top of the screen showing which way AI gunfire is coming from, placed by the shooter's

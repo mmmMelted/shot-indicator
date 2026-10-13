@@ -8,7 +8,7 @@ extends Node
 ## - Settings in user://rtv_shotindicator.cfg: range, suppressed range, duration, only shots aimed at you.
 
 
-const VERSION := "1.0.0"
+const VERSION := "1.0.1"
 const TAG := "[ShotIndicator] "
 const CONFIG := "user://rtv_shotindicator.cfg"
 const STRIP_WIDTH := 560.0

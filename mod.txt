@@ -1,7 +1,7 @@
 [mod]
 name="Shot Indicator"
 id="shot_indicator"
-version="1.0.0"
+version="1.0.1"
 priority=0
 
 [autoload]
